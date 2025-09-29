@@ -411,7 +411,7 @@ const projects = [
     ]
   },
   {
-    icon: "security",
+    icon: "Keyboard",
     title: "Keylogger using python",
     description: "A simple keylogger built using Python to capture keystrokes and log them for analysis. Useful for understanding user behavior and security testing.",
     technologies: "Python • Keylogger • Security • Penetration Testing",
