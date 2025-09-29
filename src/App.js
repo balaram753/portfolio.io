@@ -1,5 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './App.css';
+import profileImg from './thumbnails/balaram2.png';
+
 
 // Counting animation component
 const CountUp = ({ end, duration = 2000, start = 0 }) => {
@@ -124,7 +126,7 @@ function WebPane({ section }) {
             <div className="hero-content">
               <div className="profile-section">
                 <div className="profile-image">
-                  <img src="/thumbnails/balaram2.png" alt="Balaram" className="profile-img" />
+                  <img src="thumbnails/balaram2.png" alt="Balaram" className="profile-img" />
                   <div className="profile-status">Online</div>
                 </div>
                 <div className="profile-info">
@@ -410,12 +412,11 @@ const projects = [
   },
   {
     icon: "security",
-    title: "CTF Solutions & Writeups",
-    description: "Collection of cybersecurity challenges and penetration testing solutions from various CTF competitions including Osmania University events.",
-    technologies: "Cybersecurity • CTF • Penetration Testing • Osmania University",
+    title: "Keylogger using python",
+    description: "A simple keylogger built using Python to capture keystrokes and log them for analysis. Useful for understanding user behavior and security testing.",
+    technologies: "Python • Keylogger • Security • Penetration Testing",
     links: [
-      { label: "View Solutions", url: "https://github.com/balaram753/ctf-solutions" },
-      { label: "Read Writeups", url: "https://balaram-tech.medium.com/ctf-writeups" }
+      { label: "View Code", url: "https://github.com/balaram753/keylogger" },
     ]
   },
   {
@@ -424,8 +425,8 @@ const projects = [
     description: "Interactive portfolio website with CLI interface built using React. Features 3D effects, terminal commands, and responsive design.",
     technologies: "React • CSS3 • JavaScript • Terminal UI • 3D Effects",
     links: [
-      { label: "View Live", url: "https://balaram-portfolio.netlify.app" },
-      { label: "Source Code", url: "https://github.com/balaram753/portfolio-terminal" }
+      { label: "View Live", url: "https://balaram753.github.io/portfolio.io/" },
+      { label: "Source Code", url: "https://github.com/balaram753/portfol.iol" }
     ]
   },
   {
