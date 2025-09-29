@@ -488,7 +488,7 @@ function App() {
           break;
         case 'projects':
           setSection(command);
-          response = `Opening ${command} section in web view...\n\nFeatured Projects:\n• SIH Smart Education Project - Smart India Hackathon\n• CTF Solutions & Writeups - Cybersecurity challenges\n• Portfolio Terminal UI - Interactive React portfolio\n• IoT Security Tools - Custom penetration testing utilities\n• Vulnerability Research - IoT security research\n• ICS Security - Industrial control systems security\n\nTotal Projects: ${projects.length}`;
+          response = `Opening ${command} section in web view...\n\nFeatured Projects:\n• SIH Smart Education Project - Smart India Hackathon\n• Keylogger using Python \n• Portfolio Terminal UI - Interactive React portfolio\n• IoT Security Tools - Custom penetration testing utilities\n• Vulnerability Research - IoT security research\n• ICS Security - Industrial control systems security\n\nTotal Projects: ${projects.length}`;
           break;
         case 'contact':
           setSection(command);
