@@ -61,8 +61,8 @@ I’m **Balaram**, an IoT Penetration Tester specializing in securing connected 
 ## 📬 Contact
 
 * 📧 Email: [[Mail](mailto:2400040178@kluniversity.in)]
-* 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/chbalaram)
-* 🐙 GitHub: [github.com/balaram753](https://github.com/balaram753)
+* 💼 LinkedIn: [linkedin.com](https://linkedin.com/in/chbalaram)
+* 🐙 GitHub: [github.com](https://github.com/balaram753)
 
 ---
 
